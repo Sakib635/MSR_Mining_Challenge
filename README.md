@@ -76,7 +76,7 @@ python .\Logistic_Regression.py
 - **Figure 2**: Correlation matrix.
 ![Image](https://github.com/user-attachments/assets/fb9b3b19-8eb0-4939-b4ba-23c809c15be8)
 - **Figure 3**: Hierarchical clustering visualization.
-![Image](https://github.com/user-attachments/assets/0a908c09-0cfb-42ea-b5c6-177876b6b550)
+![Image](https://github.com/user-attachments/assets/1dfc5e21-6d84-4869-81d1-943ff3bccdda)
 - Logistic regression results.
 
 ## Contact
